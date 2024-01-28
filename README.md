@@ -1,7 +1,7 @@
 # Learning Multi-Scale Photo Exposure Correction
 
 ## Abstract
-
+Reproduce, fine-tune, and experiment with the DNN model for image exposure error correction.
 
 My Presentation: https://drive.google.com/file/d/1HldINW4GkOAukZpog9ni69-zHNGGl53w/view?usp=sharing
 
