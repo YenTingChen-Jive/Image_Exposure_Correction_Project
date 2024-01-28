@@ -1,6 +1,10 @@
 # Learning Multi-Scale Photo Exposure Correction
-## My Presentation
-https://drive.google.com/file/d/1HldINW4GkOAukZpog9ni69-zHNGGl53w/view?usp=sharing
+
+## Abstract
+
+
+My Presentation: https://drive.google.com/file/d/1HldINW4GkOAukZpog9ni69-zHNGGl53w/view?usp=sharing
+
 ## Original Content
 *[Mahmoud Afifi](https://sites.google.com/view/mafifi)*<sup>1,2</sup>, 
 *[Konstantinos G. Derpanis](https://www.cs.ryerson.ca/kosta/)*<sup>1</sup>, 
